@@ -18,18 +18,10 @@ This Python script lets you control your mouse using your left eye! It uses libr
 - The mouse cursor moves as you move your eye left or right.
 - Blinking clicks the mouse.
 
-**Running the Script**
+You Could Run it on Pycharm it would be very easy then
 
-1. Install required libraries (assuming Python 3 is installed):
 
-   ```bash
-   pip install opencv-python mediapipe pyautogui
-2.Run the Script:
-
-   ```bash
-   python eye_controlled_mouse.py
-   
-Tips
+#Tips
 
 You can adjust the script to:
 Change how sensitive it is to eye movements and blinks.
@@ -61,3 +53,15 @@ The script works best if your webcam is positioned well.
 Note
 
 This is a basic version and might need improvements to work perfectly in all situations.
+
+For 
+**Running the Script**
+
+1. Install required libraries (assuming Python 3 is installed):
+
+   ```bash
+   pip install opencv-python mediapipe pyautogui
+2.Run the Script:
+
+   ```bash
+   python eye_controlled_mouse.py
