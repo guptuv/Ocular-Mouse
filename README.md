@@ -24,8 +24,9 @@ This Python script lets you control your mouse using your left eye! It uses libr
 
    ```bash
    pip install opencv-python mediapipe pyautogui
-2.Run the Script
-   '''bash
+2.Run the Script:
+
+   ```bash
    python eye_controlled_mouse.py
    
 Tips
