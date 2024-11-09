@@ -53,6 +53,11 @@ The script works best if your webcam is positioned well.
 Note
 
 This is a basic version and might need improvements to work perfectly in all situations.
+![image](https://github.com/user-attachments/assets/107e0151-03d0-42cc-b3e1-409f4c6ed804)
+
+![image](https://github.com/user-attachments/assets/fb6c48d4-340b-4a25-ad94-f7db6a69a0d7)
+
+
 
 For 
 **Running the Script**
